@@ -20,3 +20,5 @@ console.log(isMale);
  console.log(number);
  let number2 = null;
  console.log(number2);
+// Nan : Not a Number
+ console.log(number - number2);
